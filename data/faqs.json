@@ -1,0 +1,86 @@
+[
+  {
+    "id": "faq-001",
+    "category": "Account",
+    "question": "How do I create an account?",
+    "answer": "Open the sign-up page, enter your name, work email, and a password, then verify the email we send you. After verification you can log in and start using the product."
+  },
+  {
+    "id": "faq-002",
+    "category": "Account",
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "On the login page click Forgot password, enter your email, and follow the reset link. The link expires in 30 minutes. If you do not see the email, check spam."
+  },
+  {
+    "id": "faq-003",
+    "category": "Billing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, and UPI. Invoices can also be paid by bank transfer on the Business plan."
+  },
+  {
+    "id": "faq-004",
+    "category": "Billing",
+    "question": "How do I update my billing details?",
+    "answer": "Go to Settings > Billing, click Edit payment method, and save the new card or UPI details. Future invoices will use the updated method."
+  },
+  {
+    "id": "faq-005",
+    "category": "Billing",
+    "question": "Can I get a refund?",
+    "answer": "Monthly plans can be refunded within 7 days of the charge if usage is under 10%. Annual plans are prorated after the first 14 days. Contact billing with your invoice number."
+  },
+  {
+    "id": "faq-006",
+    "category": "Plans",
+    "question": "What is included in the Free plan?",
+    "answer": "The Free plan includes 1 workspace, 3 team members, and 50 support tickets per month. FAQ search and basic reports are included."
+  },
+  {
+    "id": "faq-007",
+    "category": "Plans",
+    "question": "How do I upgrade or downgrade my plan?",
+    "answer": "Open Settings > Plans, choose the new plan, and confirm. Upgrades start immediately. Downgrades take effect at the next billing date."
+  },
+  {
+    "id": "faq-008",
+    "category": "Product",
+    "question": "How do I add teammates?",
+    "answer": "Go to Settings > Team, click Invite, and enter their email. They receive a link to join your workspace. Admins can change roles later."
+  },
+  {
+    "id": "faq-009",
+    "category": "Product",
+    "question": "Do you have an API?",
+    "answer": "Yes. Business and Enterprise plans include a REST API. Create an API key under Settings > Developers. Rate limit is 120 requests per minute."
+  },
+  {
+    "id": "faq-010",
+    "category": "Support",
+    "question": "What are your support hours?",
+    "answer": "Chat and email support run Monday to Friday, 9:00 to 18:00 IST. Enterprise customers get 24/7 phone support."
+  },
+  {
+    "id": "faq-011",
+    "category": "Support",
+    "question": "How do I talk to a human agent?",
+    "answer": "Ask to be connected to a person in this chat, or email support@example.com. A teammate will pick up escalated tickets from the dashboard."
+  },
+  {
+    "id": "faq-012",
+    "category": "Security",
+    "question": "Is my data encrypted?",
+    "answer": "Yes. Data in transit uses TLS 1.2+. Data at rest is encrypted with AES-256. We do not train public models on your tickets."
+  },
+  {
+    "id": "faq-013",
+    "category": "Shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping is 5 to 7 business days in India. Express shipping is 1 to 2 business days. You will get a tracking link by email."
+  },
+  {
+    "id": "faq-014",
+    "category": "Returns",
+    "question": "What is your return policy?",
+    "answer": "Unused items can be returned within 14 days of delivery. Start a return from Orders > Request return. Refunds appear in 5 to 7 business days after we receive the item."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "02f889d5",
+    "session_id": "68e72201-8c7d-4207-ac88-c372bec46226",
+    "question": "hi",
+    "answer": "Hello! How can I help you today?",
+    "escalated": false,
+    "reason": "",
+    "checked": false,
+    "created_at": "2026-10-29T14:15:45.347761+00:00"
+  },
+  {
+    "id": "1528f25a",
+    "session_id": "68e72201-8c7d-4207-ac88-c372bec46226",
+    "question": "How do I reset my password?",
+    "answer": "According to our FAQ, you can reset your password by clicking \"Forgot password\" on the login page, entering your email, and following the reset link. The link expires in 30 minutes, so be sure to check your email (including spam) for the reset instructions.",
+    "escalated": false,
+    "reason": "",
+    "checked": false,
+    "created_at": "2026-10-29T14:15:03.342900+00:00"
+  },
+  {
+    "id": "ccd1e0b6",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "i want human support\\",
+    "answer": "I'll escalate your ticket to a human agent. A teammate will pick up your request from the dashboard.",
+    "escalated": true,
+    "reason": "Customer asked for a human",
+    "checked": false,
+    "created_at": "2026-10-29T12:18:12.458464+00:00"
+  },
+  {
+    "id": "3772dc57",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "\"What payment methods do you accept?\",",
+    "answer": "We accept Visa, Mastercard, American Express, and UPI. Invoices can also be paid by bank transfer on the Business plan.",
+    "escalated": false,
+    "reason": "",
+    "checked": false,
+    "created_at": "2026-10-29T12:17:54.577441+00:00"
+  },
+  {
+    "id": "dedace5a",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "hi",
+    "answer": "Hi! How can I help you today?",
+    "escalated": false,
+    "reason": "",
+    "checked": false,
+    "created_at": "2026-10-29T12:17:25.265955+00:00"
+  },
+  {
+    "id": "70f4d146",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "hi",
+    "answer": "Hi! How can I help you today?",
+    "escalated": false,
+    "reason": "",
+    "checked": false,
+    "created_at": "2026-10-29T12:17:20.035863+00:00"
+  },
+  {
+    "id": "ef89eaa7",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "i need human support",
+    "answer": "I'd be happy to escalate your request to a human agent. I'll connect you with a teammate who can assist you further. Please hold for just a moment...",
+    "escalated": true,
+    "reason": "Customer asked for a human",
+    "checked": false,
+    "created_at": "2026-10-29T11:59:34.183826+00:00"
+  },
+  {
+    "id": "37ebf46e",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "tell me about the fees",
+    "answer": "According to our FAQ, we don't have a specific section dedicated to fees. However, I can try to help you with that. Can you please specify what type of fee you're referring to? Is it related to payment methods, invoices, or something else?",
+    "escalated": false,
+    "reason": "",
+    "checked": true,
+    "created_at": "2026-10-29T11:59:12.330292+00:00"
+  },
+  {
+    "id": "9c9d13da",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "hi",
+    "answer": "Hi! How can I help you today?",
+    "escalated": false,
+    "reason": "",
+    "checked": true,
+    "created_at": "2026-10-29T11:58:43.901255+00:00"
+  },
+  {
+    "id": "c7105c9a",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "I want to talk to a human agent",
+    "answer": "I'd be happy to connect you with a human agent. According to our FAQ, I can either ask to be connected to a person in this chat or email support@example.com. Which option would you prefer? I am connecting you with a human teammate.",
+    "escalated": true,
+    "reason": "Customer asked for a human",
+    "checked": true,
+    "created_at": "2026-10-29T10:16:50.594458+00:00"
+  },
+  {
+    "id": "effa69b9",
+    "session_id": "7a416132-a47f-462a-9df9-f9d0dc80d0de",
+    "question": "hi",
+    "answer": "Hi! How can I help you today?",
+    "escalated": false,
+    "reason": "",
+    "checked": true,
+    "created_at": "2026-10-29T10:16:27.767687+00:00"
+  }
+]

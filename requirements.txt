@@ -1,0 +1,13 @@
+FAQ Support Bot — Python backend dependencies
+
+Install with: python -m pip install -r requirements.txt
+
+fastapi uvicorn[standard] python-dotenv pydantic
+
+Retrieval-augmented generation (RAG)
+
+langchain langchain-community langchain-chroma chromadb
+
+Chat model providers
+
+langchain-groq langchain-ollama
